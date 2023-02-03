@@ -20,7 +20,7 @@
   }
   
   .container .header {
-    background-image: url('../images/backWeather.jpg');
+    background-image: url('./images/backWeather.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center bottom;

@@ -3,6 +3,7 @@ import axios from "axios";
 import "./app.css";
 import {TiWeatherPartlySunny} from "react-icons/ti";
 import BoxDiv from "./Component/BoxDiv";
+
 function App() {
   const[city, setCity] = useState();
   const[days, setDays] = useState([]);
